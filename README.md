@@ -1,6 +1,6 @@
 # HolidayHack Challenge 2020 support files 
 This repository contains the source-code and supporting files for my write-up of the SANS Holiday Hack Challenge 2020.
-After the deadline expires, the PDF-article will be included in this repository and published on my blog [www.coengoedegebure.com](https://www.coengoedegebure.com/sans-holiday-hack-challenge-2020-write-up).
+After the deadline expires, the PDF-article will be included in this repository and published on my blog [https://www.coengoedegebure.com](https://www.coengoedegebure.com/sans-holiday-hack-2020-write-up).
 
 ## Content
 [Map](/Map) - KringleCon custom maps ([small](https://raw.githubusercontent.com/CoenGoedegebure/HolidayHackChallenge2020/main/Map/KringleCon_map_small.jpg) and [poster](https://raw.githubusercontent.com/CoenGoedegebure/HolidayHackChallenge2020/main/Map/KringleCon_map.jpg))
