@@ -1,0 +1,40 @@
+# First Block:
+Chain Index: 128449
+              Nonce: e3e12de5edfb51e2
+                PID: 0803508ada0a5ebf
+                RID: aecbf777616d9fa4
+     Document Count: 1
+              Score: 000000dc (220)
+               Sign: 1 (Nice)
+         Data item: 1
+               Data Type: 05 (PDF)
+             Data Length: 000003a7
+                    Data: b'255044462d312e330a332030206f626a0a3c3c2f54797065202f506167650a2f506172656e742031203020520a2f5265736f757263657320 <...snip...>'
+               Date: 03/24
+               Time: 13:21:00
+       PreviousHash: c6e2e6ecb785e7132c8003ab5aaba88d
+  Data Hash to Sign: 03cfb11504b8eee93b26aeb0d8ac39ff
+          Signature: b'PT4OZUq+vwfNDhqipxwt28NC4Hd7dw6N1i4XHMGkIMR53qy8dF47YwpqzEjW0EAbUYPZ+b/E4X3YjXUTI0VnoJ2VsJQWtIPwcGIk5ayMfe5dgrjuLle5N <...snip...>'
+
+################################################################################
+# Last Block:
+Chain Index: 129996
+              Nonce: eb806dad1ad54826
+                PID: 6b7981cfaf570fff
+                RID: ea5c0aee4afd1464
+     Document Count: 1
+              Score: 00000064 (100)
+               Sign: 0 (Naughty)
+         Data item: 1
+               Data Type: 05 (PDF)
+             Data Length: 0000039d
+                    Data: b'255044462d312e330a332030206f626a0a3c3c2f54797065202f506167650a2f506172656e742031203020520a2f5265736f757263657320 <...snip...>'
+               Date: 03/24
+               Time: 13:21:59
+       PreviousHash: 310373ec73859b55ed6aeeb6940e5a2e
+  Data Hash to Sign: 01685b3428161ea870e40b1879c53a33
+          Signature: b'kO2GtK6Lrb3zKZL+OBlwmZAWxYQcEk5MNAW7dOM1UhEVso51lJbYxOSsBDtVbIKWL34F0KN+yOVr26MNEUoEPT6MKRrPGHoYUzbmnaOEOJO1uMe2Sx085 <...snip...>'
+
+################################################################################
+Number of Blocks in Chain:      1548
+Index of last Block in Chain:   129996

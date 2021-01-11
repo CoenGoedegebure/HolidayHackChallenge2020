@@ -1,0 +1,15 @@
+RUBY_MAJOR=2.7
+GREETZ=JackFrostWasHere
+HOSTNAME=cbf2810b7573
+PORT=4141
+HOME=/home/app
+BUNDLE_APP_CONFIG=/usr/local/bundle
+RUBY_VERSION=2.7.0
+RACK_ENV=development
+APP_HOME=/app
+PATH=/usr/local/bundle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+HOST=0.0.0.0
+GEM_HOME=/usr/local/bundle
+RUBY_DOWNLOAD_SHA256=27d350a52a02b53034ca0794efe518667d558f152656c2baaf08f3d0c8b02343
+PWD=/tmp
+BUNDLE_SILENCE_ROOT_WARNING=1
